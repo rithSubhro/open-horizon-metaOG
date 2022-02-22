@@ -5,6 +5,7 @@ theme: jekyll-theme-tactile
 
 # Secondary Parameters
 header-img: img/hero-dark.jpg
+meta-img: img/meta-img1.jpg
 headercolor: "#FFFFFF"
 logo: img/logos/open-horizon.png
 
