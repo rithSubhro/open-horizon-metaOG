@@ -10,6 +10,6 @@ headercolor: "#FFFFFF"
 logo: img/logos/open-horizon.png
 
 # Tertiary Parameters
-github_username: rithSubhro
-project_repository: open-horizon-metaOG
+github_username: open-horizon
+project_repository: open-horizon.github.io
 altmetric: true
